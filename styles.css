@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Pattaya&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #7b6079;
+  text-align: center;
+}
+
+.container {
+  padding: 4rem 0rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* heading section  */
+
+header h1 {
+  font-family: "Pattaya", sans-serif;
+  font-size: 10rem;
+  color: #00ead3;
+  width: 100vw;
+}
+
+/* player header */
+
+.container .player_1,
+.player_2 {
+  font-family: "Indie Flower", cursive;
+  font-size: 3.5rem;
+  color: #00ead3;
+  padding: 1rem 1rem;
+}
+
+/* dice img */
+.container img {
+  background-color: white;
+  border-radius: 10% 10%;
+  margin: 3rem 5rem;
+}
+
+/* footer */
+
+footer {
+  background-color: #00ead385;
+  padding: 2rem 1rem;
+  color: white;
+  font-size: 2rem;
+}
