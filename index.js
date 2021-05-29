@@ -21,30 +21,30 @@ else if (randomNumber1 == randomNumber2) {
 
 //set image 1 src
 if (randomNumber1 === 1) {
-  image1.setAttribute("src", "images/dice_1.png");
+  image1.setAttribute("src", "dice_1.png");
 } else if (randomNumber1 === 2) {
-  image1.setAttribute("src", "images/dice_2.png");
+  image1.setAttribute("src", "dice_2.png");
 } else if (randomNumber1 === 3) {
-  image1.setAttribute("src", "images/dice_3.png");
+  image1.setAttribute("src", "dice_3.png");
 } else if (randomNumber1 === 4) {
-  image1.setAttribute("src", "images/dice_4.png");
+  image1.setAttribute("src", "dice_4.png");
 } else if (randomNumber1 === 5) {
-  image1.setAttribute("src", "images/dice_5.png");
+  image1.setAttribute("src", "dice_5.png");
 } else if (randomNumber1 === 6) {
-  image1.setAttribute("src", "images/dice_6.png");
+  image1.setAttribute("src", "dice_6.png");
 }
 
 //set image 2 src
 if (randomNumber2 === 1) {
-  image2.setAttribute("src", "images/dice_1.png");
+  image2.setAttribute("src", "dice_1.png");
 } else if (randomNumber2 === 2) {
-  image2.setAttribute("src", "images/dice_2.png");
+  image2.setAttribute("src", "dice_2.png");
 } else if (randomNumber2 === 3) {
-  image2.setAttribute("src", "images/dice_3.png");
+  image2.setAttribute("src", "dice_3.png");
 } else if (randomNumber2 === 4) {
-  image2.setAttribute("src", "images/dice_4.png");
+  image2.setAttribute("src", "dice_4.png");
 } else if (randomNumber2 === 5) {
-  image2.setAttribute("src", "images/dice_5.png");
+  image2.setAttribute("src", "dice_5.png");
 } else if (randomNumber2 === 6) {
-  image2.setAttribute("src", "images/dice_6.png");
+  image2.setAttribute("src", "dice_6.png");
 }
